@@ -1,0 +1,177 @@
+nav,
+        footer {
+            clear: both;
+            color: #ffffff;
+            background-color: firebrick;
+            height: 30px;
+        }
+
+        nav ul {
+            margin: 0px;
+            padding: 5px 0px 5px 30px;
+        }
+
+        nav li {
+            display: inline;
+            margin-right: 40px;
+        }
+
+        nav li a {
+            color: #ffffff;
+            text-decoration:none
+        }
+
+        nav li a:hover,
+        nav li a.current {
+            color: #000000;
+        }
+.header{
+ background-color: brown;
+ width: 940px;
+ margin: 20px auto 20px auto;
+ border: 2px solid #000000;
+ background-color: #ffffff;
+}
+
+h1{
+  font-size: 40px;
+  color: firebrick;
+  text-align: center;
+  font-family:'Lucida Handwriting';
+  margin-top: 30px;
+}
+h2{
+  color:firebrick;
+  text-align: center;
+  font-family: Trebuchet MS;
+  font-size: 30px;
+  letter-spacing: 5px;
+  margin-top: 50px;
+  text-transform: full-width;
+}
+
+body {
+background: url(https://wallpaperaccess.com/full/3265732.jpg);
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+  font-family: "Open Sans", cursive;
+}
+
+.home{
+  color: rgb(38, 161, 233);
+  background-color: rgba(246, 245, 245, 0.76);
+  margin: 20px auto 40px auto;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  width: 880px;
+  border-radius: 15px;
+  padding: 32px;
+}
+.me{
+  width: 240px;
+  height: 320px;
+  border-radius: 15px;
+  text-align: right;
+  margin-left: 30px;
+}
+.beranda{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  width: 900px;
+}
+
+.textcont{
+    color: #F4F7FF;
+    font-family: monospace;
+    text-align: center;
+}
+ 
+.textcont h1{
+    font-size: 50px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    text-align: center;
+}
+ 
+.textcont p{
+    margin-top: -4%;
+    font-size: 30px;
+    font-style: italic;
+    letter-spacing: 2px;
+    margin-bottom: 5%;
+    color:black;
+    text-align: center;
+}
+
+.imgkontak{
+ width: 90px;
+ height: 90px;
+ margin-left: 15px;
+ margin-right: 15px;
+}
+
+p{
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+.desc{
+  text-align: center;
+  width: 800px;
+  margin-left:auto;margin-right:auto
+}
+
+.edu{
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  width:50%;
+  margin-left:auto;margin-right:auto;
+}
+.downloadcv{
+    color:white;
+    background-color: rgba(138, 14, 14, 0.829);
+    font-size: 15px;
+    box-sizing: border-box;
+    padding: 9px 9px 9px 9px;
+    border: 2px outset #bb2121;
+    font-family: 'calibri';
+}
+
+.ket{
+  margin-left: 10px;
+}
+
+footer {
+background-color: brown;
+ width: 940px;
+ margin: 20px auto 20px auto;
+ border: 2px solid #000000;
+ background-color: firebrick;
+}
+ 
+footer p {
+  margin: 5px;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+}
+.slideshow-container {
+  width: 100%;
+  position: relative;
+  margin: auto;
+}
+ 
+.containers {
+  display: none;
+}
+
+.MessageInfo {
+ color: #f2f2f3;
+ font-size: 14px;
+ padding: 10px 14px;
+ position: absolute;
+ top: 0;
+}
